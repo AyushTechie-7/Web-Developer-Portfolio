@@ -7,7 +7,7 @@ Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. 
 
 ## 🔥 Live Demo
 
-👉 [Visit Portfolio](https://ayushtechie-7.github.io/PRODIGY_WD_04/)
+👉 [Visit Portfolio](https://ayushtechie-7.github.io/Web-Developer-Portfolio/)
 
 ---
 
