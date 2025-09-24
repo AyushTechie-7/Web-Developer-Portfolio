@@ -1,4 +1,4 @@
-# PRODIGY_WD_04
+# Web Developer Portfolio
 # 🌐 Ayush Choudhar | Web Developer Portfolio
 
 Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my skills, projects, contact details, and more — all wrapped in a modern, interactive, and animated layout.
