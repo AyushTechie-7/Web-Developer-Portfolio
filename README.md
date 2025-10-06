@@ -11,7 +11,7 @@ Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. 
 
 ---
 
-## ✨ Features
+## ✨ Features:-
 
 - 🔵 **Animated Hero Section** with typewriter effect
 - 🌀 **Particles.js Background** for interactive visuals
